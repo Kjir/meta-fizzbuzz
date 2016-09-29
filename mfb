@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require './fizzbuzz'
+require './fizzbuzz2'
 
 runner = FizzBuzz::Runner.new
 runner.run
